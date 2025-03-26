@@ -496,6 +496,9 @@ hr {
     .slide-inner .slide-title h2 {
         margin-bottom: 0;
     }
+    .logo{
+      font-size: 26px;  
+    }
 }
 
 .hero-slider .swiper-slide {
